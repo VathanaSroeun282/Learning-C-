@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1dKQ2wJyOvxx70A68lQQYp2dAST6Df2X6gArYKks6bMIhdk3fIgjqbLhJcABOdAwwlEcxC1NCgbn5HKuOXcyrw==",
+  "success": true,
+  "projectFilePath": "D:\\Basic Winforms(C#)\\CsharpLerningEvening\\CsharpLerningEvening.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\U-ser\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\U-ser\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\U-ser\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\U-ser\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

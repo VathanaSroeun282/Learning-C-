@@ -1,0 +1,14 @@
+D:\Basic Winforms(C#)\CsharpLerningEvening\bin\Debug\net6.0\CsharpLerningEvening.exe
+D:\Basic Winforms(C#)\CsharpLerningEvening\bin\Debug\net6.0\CsharpLerningEvening.deps.json
+D:\Basic Winforms(C#)\CsharpLerningEvening\bin\Debug\net6.0\CsharpLerningEvening.runtimeconfig.json
+D:\Basic Winforms(C#)\CsharpLerningEvening\bin\Debug\net6.0\CsharpLerningEvening.dll
+D:\Basic Winforms(C#)\CsharpLerningEvening\bin\Debug\net6.0\CsharpLerningEvening.pdb
+D:\Basic Winforms(C#)\CsharpLerningEvening\obj\Debug\net6.0\CsharpLerningEvening.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic Winforms(C#)\CsharpLerningEvening\obj\Debug\net6.0\CsharpLerningEvening.AssemblyInfoInputs.cache
+D:\Basic Winforms(C#)\CsharpLerningEvening\obj\Debug\net6.0\CsharpLerningEvening.AssemblyInfo.cs
+D:\Basic Winforms(C#)\CsharpLerningEvening\obj\Debug\net6.0\CsharpLerningEvening.csproj.CoreCompileInputs.cache
+D:\Basic Winforms(C#)\CsharpLerningEvening\obj\Debug\net6.0\CsharpLerningEvening.dll
+D:\Basic Winforms(C#)\CsharpLerningEvening\obj\Debug\net6.0\refint\CsharpLerningEvening.dll
+D:\Basic Winforms(C#)\CsharpLerningEvening\obj\Debug\net6.0\CsharpLerningEvening.pdb
+D:\Basic Winforms(C#)\CsharpLerningEvening\obj\Debug\net6.0\CsharpLerningEvening.genruntimeconfig.cache
+D:\Basic Winforms(C#)\CsharpLerningEvening\obj\Debug\net6.0\ref\CsharpLerningEvening.dll
