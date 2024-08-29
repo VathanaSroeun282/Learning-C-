@@ -34,6 +34,7 @@ namespace CsharpLerningEvening
         }
         private void Example4()
         {
+            Console.WriteLine("---------Example 4---------");
             DateTime currentDateTime = DateTime.Now;
             DateTime todaysDate = DateTime.Today;
             DateTime currentDateTimeUTC = DateTime.UtcNow;
@@ -45,11 +46,27 @@ namespace CsharpLerningEvening
             Console.WriteLine($"Max Date Time Value  : {maxDateTimeValue}");
             Console.WriteLine($"Min Date Time Value  : {minDateTimeValue}");
         }
+        private void Example5()
+        {
+            Console.WriteLine("-----Example5-----");
+            DateTime t1 = new DateTime(2015, 12, 20);
+            DateTime t2 = new DateTime(2016, 12, 31, 5, 10, 20);
+            TimeSpan time = new TimeSpan(10, 5, 25, 50);
+            Console.WriteLine(t2 + time);
+            Console.WriteLine(t2-t1);
+            Console.WriteLine(t1 == t2);
+            Console.WriteLine(t1 >= t2);
+            Console.WriteLine(t1 <= t2);
+            Console.WriteLine(t1 < t2);
+            Console.WriteLine(t1 > t2);
+
+        }
         public Lesson6_DateXTime() {
             Example1();
             Example2();
             Example3();
             Example4();
+            Example5();
         }
     }
 }
