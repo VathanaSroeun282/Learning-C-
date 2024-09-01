@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HWLesson3", "..\HWLesson3\H
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HWLesson4", "..\HWLesson4\HWLesson4.csproj", "{32B83F02-40AE-45D0-85A8-2B6AA5AB4E89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWLesson5", "..\HWLesson5\HWLesson5.csproj", "{056F6322-4B16-47D4-B29C-3577D8EFAB44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HWLesson5", "..\HWLesson5\HWLesson5.csproj", "{056F6322-4B16-47D4-B29C-3577D8EFAB44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWLesson6", "..\HWLesson6\HWLesson6.csproj", "{FFA46A63-215D-4F9C-8A3E-8E2067B6EA17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{056F6322-4B16-47D4-B29C-3577D8EFAB44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{056F6322-4B16-47D4-B29C-3577D8EFAB44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{056F6322-4B16-47D4-B29C-3577D8EFAB44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFA46A63-215D-4F9C-8A3E-8E2067B6EA17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFA46A63-215D-4F9C-8A3E-8E2067B6EA17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFA46A63-215D-4F9C-8A3E-8E2067B6EA17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFA46A63-215D-4F9C-8A3E-8E2067B6EA17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
