@@ -17,8 +17,9 @@ namespace CsharpLerningEvening
             //Lesson3 myLesson3 = new Lesson3();
             //Lesson4 lesson4 = new Lesson4();
             //Lesson5_ArrayXCollections lesson5 = new Lesson5_ArrayXCollections();
-            Lesson6_DateXTime lesson6_DateXTime = new Lesson6_DateXTime();
-            
+            //lesson6_datextime lesson6_datextime = new lesson6_datextime();
+            Lesson7 lesson7 = new Lesson7();
+
 
         }
     }
